@@ -1,9 +1,4 @@
-# CS114.K21
-## CV
-Name: Le Doan Nhat Minh
+# CV
 
-Major: Computer Science
-
-Skill: C++/Python
-
+<img src="https://i.imgur.com/muFkVue.png">
 
